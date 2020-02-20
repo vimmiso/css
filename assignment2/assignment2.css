@@ -4,9 +4,13 @@ body{
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 20px;
-    width: 60%;
-    height: 670px;
-    margin-left: 220px;
+    /* width: 60%;
+    height: 670px; */
+    width: 800px;
+    height: 500px;
+    margin-left: 360px;
+    margin-top: 100px;
+    /* vertical-align: center; */
     
 }
 
@@ -21,7 +25,7 @@ body{
 }
 
 .up_1{
-    font-size: 34px;
+    font-size: 29px;
     text-align: left;
     margin-top: 10px;
     margin-left: 140px;
@@ -29,9 +33,9 @@ body{
     
 }
 .up_2{
-    font-size: 24px;
+    font-size: 22px;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 .down{
@@ -51,14 +55,14 @@ body{
     background-image: url(bg.jpg);
     /* border: 2px solid black; */
     float: left;
-    width: 67.7%;
+    width: 67.3%;
     height: 95.7%;
     /* border: 2px solid white; */
-    margin-left: 12px;
+    margin-left: 11px;
     margin-top: 8px;
     margin-bottom: 6px;
     color: white;
-    font-size: 32px;
+    font-size: 26px;
     text-align: center;
 
 }
